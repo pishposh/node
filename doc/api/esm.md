@@ -715,7 +715,6 @@ READ\_PACKAGE\_JSON(_packageURL_)
 > 1. If the file at _packageURL_ does not parse as valid JSON, then
 >    1. Throw an _Invalid Package Configuration_ error.
 > 1. Return the parsed JSON source of the file at _pjsonURL_.
-> 1. Return the parsed JSON source of the file at _pjsonURL_.
 
 </details>
 
